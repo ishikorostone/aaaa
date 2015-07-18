@@ -1,0 +1,11 @@
+[
+{
+"modid": "Spinosaurus",
+"name": "Spinosaurus",
+"description": "adds Spinosaurus",
+"version": "1.0",
+"mcversion": "1.8",
+"authorList": ["ishikoro02"],
+"requiredMods": ["Forge"]
+}
+]
